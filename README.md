@@ -5,7 +5,7 @@ This is simple react app which can be used to make online Food & Beverage orderi
 
   - Very simple code
   - Built with React.js and Bootstrap
-  - 
+
 
 # Feel Free to clone and customize as you need!
 
